@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\My-project\\Fruit-Project\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B624B9-D508-4D86-BD03-837DB8DF702D}|API\\API.csproj|c:\\users\\admin\\my-project\\fruit-project\\api\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B624B9-D508-4D86-BD03-837DB8DF702D}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B624B9-D508-4D86-BD03-837DB8DF702D}|API\\API.csproj|c:\\users\\admin\\my-project\\fruit-project\\api\\api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B624B9-D508-4D86-BD03-837DB8DF702D}|API\\API.csproj|solutionrelative:api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\My-project\\Fruit-Project\\API\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\My-project\\Fruit-Project\\API\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowE4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:15:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\My-project\\Fruit-Project\\API\\API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\My-project\\Fruit-Project\\API\\API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAH4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:53:19.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
